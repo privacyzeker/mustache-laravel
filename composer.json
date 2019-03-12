@@ -1,0 +1,43 @@
+{
+    "name": "privacyzeker/laravel-mustache",
+    "description": "A Laravel-compatible implementation of Mustache-Handlebars.",
+    "type": "library",
+    "license": "Proprietary",
+    "authors": [
+        {
+            "name": "Ted van Riel",
+            "email": "ted@privacyzeker.nl"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "privacyzeker/mustache",
+                "version": "0.1.0",
+                "type": "package",
+                "source": {
+                    "url": "git@gitlab.privacyzeker.nl:privacy-zeker/mustache.git",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
+        }
+    ],
+    "require": {
+        "privacyzeker/mustache": "*",
+        "illuminate/support": "5.7.*"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "PrivacyZeker\\LaravelMustache\\Providers\\MustacheServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "PrivacyZeker\\LaravelMustache\\": "src/"
+        }
+    }
+}
