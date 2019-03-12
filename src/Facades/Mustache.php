@@ -4,7 +4,7 @@ namespace PrivacyZeker\Mustache\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
-class Mustace extends Facade
+class Mustache extends Facade
 {
 
         public static function getFacadeAccessor()
