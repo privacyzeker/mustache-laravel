@@ -9,21 +9,6 @@
 			"email": "ted@privacyzeker.nl"
 		}
 	],
-	"repositories": [
-		{
-			"type": "package",
-			"package": {
-				"name": "privacy-zeker/mustache",
-				"version": "0.1.0",
-				"type": "package",
-				"source": {
-					"url": "git@gitlab.privacyzeker.nl:privacy-zeker/mustache.git",
-					"type": "git",
-					"reference": "master"
-				}
-			}
-		}
-	],
 	"require": {
 		"privacy-zeker/mustache": "*",
 		"illuminate/support": "5.7.*"
