@@ -2,7 +2,7 @@
 	"name": "privacy-zeker/laravel-mustache",
 	"description": "A Laravel-compatible implementation of Mustache-Handlebars.",
 	"type": "library",
-	"license": "Proprietary",
+	"license": "proprietary",
 	"authors": [
 		{
 			"name": "Ted van Riel",
