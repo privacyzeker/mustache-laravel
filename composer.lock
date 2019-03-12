@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "341552bc2b6dbbfc8fb34500058e9034",
+    "content-hash": "7a540eefba9713d1d01cbb671c9ef01e",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -235,7 +235,7 @@
             "time": "2018-12-28T10:07:33+00:00"
         },
         {
-            "name": "privacyzeker/mustache",
+            "name": "privacy-zeker/mustache",
             "version": "0.1.0",
             "source": {
                 "type": "git",
