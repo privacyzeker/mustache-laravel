@@ -13,7 +13,7 @@
 		{
 			"type": "package",
 			"package": {
-				"name": "privacyzeker/mustache",
+				"name": "privacy-zeker/mustache",
 				"version": "0.1.0",
 				"type": "package",
 				"source": {
@@ -25,7 +25,7 @@
 		}
 	],
 	"require": {
-		"privacyzeker/mustache": "*",
+		"privacy-zeker/mustache": "*",
 		"illuminate/support": "5.7.*"
 	},
 	"extra": {
