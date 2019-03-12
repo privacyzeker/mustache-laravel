@@ -11,7 +11,7 @@
 	],
 	"require": {
 		"privacy-zeker/mustache": "3.0.0",
-		"illuminate/support": "5.7.*"
+		"illuminate/support": "5.8.*"
 	},
 	"extra": {
 		"laravel": {
