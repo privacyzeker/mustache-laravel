@@ -10,7 +10,7 @@
 		}
 	],
 	"require": {
-		"privacy-zeker/mustache": "*",
+		"privacy-zeker/mustache": "3.0.0",
 		"illuminate/support": "5.7.*"
 	},
 	"extra": {
