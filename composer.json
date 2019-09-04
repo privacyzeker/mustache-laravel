@@ -1,5 +1,5 @@
 {
-	"name": "privacy-zeker/laravel-mustache",
+	"name": "privacyzeker/mustache-laravel",
 	"description": "A Laravel-compatible implementation of Mustache-Handlebars.",
 	"type": "library",
 	"license": "proprietary",
@@ -10,7 +10,7 @@
 		}
 	],
 	"require": {
-		"privacy-zeker/mustache": "3.0.0",
+		"privacyzeker/mustache": "3.0.0",
 		"illuminate/support": "5.8.*"
 	},
 	"extra": {
